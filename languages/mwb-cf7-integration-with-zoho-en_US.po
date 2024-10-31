@@ -1,0 +1,912 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-10-05 15:39+0530\n"
+"PO-Revision-Date: 2021-10-05 15:40+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: admin/class-mwb-cf7-integration-with-zoho-admin.php:164
+msgid "Back to feeds"
+msgstr ""
+
+#: admin/class-mwb-cf7-integration-with-zoho-admin.php:166
+msgid "Internal server error"
+msgstr ""
+
+#: admin/class-mwb-cf7-integration-with-zoho-admin.php:296
+msgid "Security check failed, missing state parameter!"
+msgstr ""
+
+#: admin/class-mwb-cf7-integration-with-zoho-admin.php:300
+msgid "Security check failed, state not verified!!"
+msgstr ""
+
+#: admin/class-mwb-cf7-integration-with-zoho-admin.php:309
+msgid "Check your credentials !!"
+msgstr ""
+
+#: admin/class-mwb-cf7-integration-with-zoho-admin.php:395
+#: mwb-cf7-integration-with-zoho.php:74
+#: public/class-mwb-cf7-integration-with-zoho-public.php:516
+msgid "MWB CF7 Integration with ZOHO CRM"
+msgstr ""
+
+#: admin/class-mwb-cf7-integration-with-zoho-admin.php:569
+msgid "CF7 Integration with Google Sheets"
+msgstr ""
+
+#: admin/class-mwb-cf7-integration-with-zoho-admin.php:570
+msgid "MWB CF7 Integration with Google Sheets"
+msgstr ""
+
+#: admin/class-mwb-cf7-integration-with-zoho-admin.php:580
+#, php-format
+msgid ""
+"%1$s is deactivated, Please Update the PRO version as this version is "
+"outdated and will not work with the current %2$s Org version"
+msgstr ""
+
+#: admin/partials/setup-guide.php:20
+msgid "Go"
+msgstr ""
+
+#: admin/partials/setup-guide.php:21
+msgid " to your developer account."
+msgstr ""
+
+#: admin/partials/setup-guide.php:24
+msgid "Select client type as Server based"
+msgstr ""
+
+#: admin/partials/setup-guide.php:27
+msgid "Enter client name ( For eg. \"Demo\" or \"My app\" )"
+msgstr ""
+
+#: admin/partials/setup-guide.php:30
+msgid ""
+"Fill up mandatory informations like \"CLinet Name\" on the Client details tab"
+msgstr ""
+
+#: admin/partials/setup-guide.php:37
+#, php-format
+msgid "Enter  <strong> %s </strong> as Redirect URL."
+msgstr ""
+
+#: admin/partials/setup-guide.php:45
+msgid ""
+"New app will be created and its its credentials will be displayed on Client "
+"Secret tab."
+msgstr ""
+
+#: admin/partials/setup-guide.php:48
+msgid ""
+"Copy \"Client ID\" and \"Client secret\" from there and enter it in "
+"Authentication form."
+msgstr ""
+
+#: admin/partials/setup-guide.php:52
+msgid "Click on authorize button."
+msgstr ""
+
+#: admin/partials/setup-guide.php:55
+msgid "It will redirect you to ZOHO login panel."
+msgstr ""
+
+#: admin/partials/setup-guide.php:58
+msgid ""
+"After successful login, it will redirect you to consent page, where it will "
+"ask your permissions to access the data."
+msgstr ""
+
+#: admin/partials/setup-guide.php:61
+msgid ""
+"Click on allow, it should redirect back to your plugin admin page and your "
+"connection part is done."
+msgstr ""
+
+#: admin/partials/setup-guide.php:69
+#, php-format
+msgid ""
+"Still facing issue! Please check detailed app setup <a href=\"%s\" target="
+"\"_blank\"  >documentation</a>."
+msgstr ""
+
+#: extra-templates/makewebbetter-deactivation-template-display.php:32
+msgid "May we have a little info about why you are deactivating?"
+msgstr ""
+
+#: extra-templates/makewebbetter-deactivation-template-display.php:42
+msgid "Skip and Deactivate Now"
+msgstr ""
+
+#: extra-templates/makewebbetter-onboarding-template-display.php:34
+msgid "Welcome to MakeWebBetter"
+msgstr ""
+
+#: extra-templates/makewebbetter-onboarding-template-display.php:35
+msgid ""
+"We love making new friends! Subscribe below and we promise to keep you up-to-"
+"date with our latest new plugins, updates, awesome deals and a few special "
+"offers."
+msgstr ""
+
+#: extra-templates/makewebbetter-onboarding-template-display.php:45
+msgid "Skip For Now"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-zoho-ajax-handler.php:103
+#: includes/class-mwb-cf7-integration-with-zoho-ajax-handler.php:225
+msgid "Success"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-zoho-ajax-handler.php:122
+msgid "Something went wrong!!"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-zoho-ajax-handler.php:154
+msgid "Something went wrong!! Please try reloading this page."
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-zoho-ajax-handler.php:184
+msgid "How to get the API keys?"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-zoho-ajax-handler.php:209
+msgid "Something went wrong! Check your credentials and authorize again"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-zoho-ajax-handler.php:218
+#, php-format
+msgid "Access token will expire in : %s minute(s)"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-zoho-ajax-handler.php:220
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:83
+msgid "Access token has expired."
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-zoho-ajax-handler.php:281
+msgid "No data found"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-zoho-ajax-handler.php:294
+msgid "Inavlid email"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-zoho-ajax-handler.php:308
+msgid "Settings saved successfully"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-zoho-ajax-handler.php:488
+#: includes/class-mwb-cf7-integration-with-zoho-ajax-handler.php:512
+#: includes/class-mwb-cf7-integration-with-zoho-ajax-handler.php:550
+#: includes/class-mwb-cf7-integration-with-zoho-ajax-handler.php:634
+msgid "Somthing went wrong, Refresh and try again."
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-zoho-ajax-handler.php:670
+msgid "No log data available"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-zoho-ajax-handler.php:748
+msgid "Invalid form"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-zoho-onboarding.php:343
+msgid "What is your monthly revenue?"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-zoho-onboarding.php:360
+msgid "What industry defines your business?"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-zoho-onboarding.php:395
+msgid "What is the best email address to contact you?"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-zoho-onboarding.php:405
+msgid "What is your contact number?"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-zoho-onboarding.php:920
+msgid "Unexpected Error Occured"
+msgstr ""
+
+#: mwb-cf7-integration-with-zoho.php:73
+#: mwb-crm-fw/templates/meta-boxes/select-form.php:31
+msgid "Contact Form 7"
+msgstr ""
+
+#: mwb-cf7-integration-with-zoho.php:82
+#, php-format
+msgid " %1$s is not activated, Please activate %1$s first to activate %2$s"
+msgstr ""
+
+#: mwb-cf7-integration-with-zoho.php:194
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:300
+msgid "Settings"
+msgstr ""
+
+#: mwb-cf7-integration-with-zoho.php:195
+msgid "GO PRO"
+msgstr ""
+
+#: mwb-cf7-integration-with-zoho.php:216
+msgid "Demo"
+msgstr ""
+
+#: mwb-cf7-integration-with-zoho.php:217
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:142
+msgid "Documentation"
+msgstr ""
+
+#: mwb-cf7-integration-with-zoho.php:218
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:150
+msgid "Support"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-feed-module.php:128
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-feed-module.php:144
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:298
+msgid "Feeds"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-feed-module.php:129
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:49
+msgid "Feed"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-feed-module.php:130
+msgid "Crm Feeds"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-feed-module.php:131
+msgid "Parent Feed"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-feed-module.php:132
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:36
+msgid "All Feeds"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-feed-module.php:133
+msgid "View Feed"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-feed-module.php:134
+msgid "Add New Feed"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-feed-module.php:135
+msgid "Add New"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-feed-module.php:136
+msgid "Edit Feed"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-feed-module.php:137
+msgid "Update Feed"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-feed-module.php:138
+msgid "Search Feed"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-feed-module.php:139
+msgid "Not Found"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-feed-module.php:140
+msgid "Not found in Trash"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-feed-module.php:145
+msgid "Feeds for crm"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-feed-module.php:178
+msgid "Feed details"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-feed-module.php:187
+msgid "Conditional Statements"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-framework.php:204
+msgid "Matches exactly"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-framework.php:205
+msgid "Does not match exactly"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-framework.php:206
+msgid "Contains (Text)"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-framework.php:207
+msgid "Does not contain (Text)"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-framework.php:208
+msgid "Exist in (Text)"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-framework.php:209
+msgid "Does not Exists in (Text)"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-framework.php:210
+msgid "Starts with (Text)"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-framework.php:211
+msgid "Does not start with (Text)"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-framework.php:212
+msgid "Ends with (Text)"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-framework.php:213
+msgid "Does not end with (Text)"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-framework.php:214
+msgid "Less than (Text)"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-framework.php:215
+msgid "Greater than (Text)"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-framework.php:216
+msgid "Less than (Date/Time)"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-framework.php:217
+msgid "Greater than (Date/Time)"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-framework.php:218
+msgid "Equals (Date/Time)"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-framework.php:219
+msgid "Is empty"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-framework.php:220
+msgid "Is not empty"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-framework.php:281
+msgid "Application is not connected to Keap"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:133
+#, php-format
+msgid "%s day"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:140
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:159
+msgid "Activate"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:143
+#, php-format
+msgid ""
+" the license key before %s or you may risk losing data and the plugin will "
+"also become dysfunctional."
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:155
+msgid "Trail expried !! "
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:162
+msgid " your license and continue enjoying the pro version features."
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:193
+msgid "Go Premium"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:294
+msgid "Dashboard"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:299
+msgid "Logs"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:393
+msgid "API Name : "
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:397
+msgid "Type : "
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:402
+msgid "Length : "
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:408
+msgid "Options : "
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:416
+msgid "Field : "
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:421
+msgid "Required Field"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:430
+msgid "Field Type"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:433
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:446
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:465
+#: mwb-crm-fw/templates/meta-boxes/add-new-field.php:28
+#: mwb-crm-fw/templates/meta-boxes/primary-field.php:28
+msgid "Select an Option"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:435
+msgid "Standard Value"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:438
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:461
+msgid "Custom Value"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:444
+msgid "Field Value"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:502
+msgid "Select Field"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:512
+msgid "Select Condition"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:517
+msgid "Enter value"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:553
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:71
+msgid "Form : "
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:557
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:75
+msgid "Object : "
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:561
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:79
+msgid "Primary Key : "
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:565
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:83
+msgid "Conditions : "
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:566
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:84
+msgid "Applied"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:570
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:89
+msgid "Edit feed"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-zoho-template-manager.php:573
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:93
+msgid "Trash feed"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/add-new-field.php:22
+msgid "Add New Field"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/add-new-field.php:47
+msgid "Add Field"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/header.php:23
+msgid "Keap"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/header.php:26
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:27
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:80
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:31
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:24
+#: mwb-crm-fw/templates/tab-contents/settings-tab.php:27
+msgid "CF7"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/opt-in-condition.php:22
+msgid "Condition Filter"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/opt-in-condition.php:33
+msgid "Enable to add Conditional filters on form submission"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/opt-in-condition.php:51
+msgid "Add \"AND\" filter"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/opt-in-condition.php:53
+msgid "Trash"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/opt-in-condition.php:59
+msgid "Add \"OR\" filter"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/primary-field.php:22
+msgid "Primary Field"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/primary-field.php:48
+msgid ""
+"Please select a field which should be used as \"primary key\" to update an "
+"existing record. \n"
+"\t\t\t\t\t\tIn case of duplicate records"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/select-fields.php:22
+msgid "Map Fields"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/select-form.php:23
+msgid "Select CF7 Form"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/select-form.php:30
+msgid "Select Form"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/select-object.php:31
+#, php-format
+msgid "Select %s Object"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/select-object.php:41
+msgid "Select Object"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/select-object.php:54
+msgid "Refresh Objects"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/select-object.php:60
+msgid "Refresh Fields"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:24
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:77
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:28
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:21
+#: mwb-crm-fw/templates/tab-contents/settings-tab.php:24
+msgid "Zoho"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:43
+msgid "Connection Status"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:47
+msgid "Connected"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:59
+#, php-format
+msgid "Owner Name : %s"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:69
+#, php-format
+msgid "Owner Email : %s"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:88
+msgid "Refresh Access Token"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:95
+msgid "Reauthorize"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:98
+msgid "Disconnect"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:112
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:125
+msgid "Synced Contact Forms"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:119
+msgid ""
+"Total number of Contact Form 7 submission data which are synced over ZOHO "
+"CRM."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:120
+msgid "View log"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:139
+msgid "Need any help ? Check our documentation."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:147
+msgid "Facing any issue ? Open a support ticket."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:155
+msgid "Need personalized solution, contact us !"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:158
+msgid "Connect"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:32
+#, php-format
+msgid ""
+"With this CF7 %1$s Integration you can easily sync all your CF7 Form "
+"Submissions data over %2$s CRM. It will create %3$s over %4$s CRM, based on "
+"your CF7 Form Feed data."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:35
+msgid "Leads, Contacts, Quotes etc."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:45
+#, php-format
+msgid "Connect your %s CRM account with CF7."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:54
+#, php-format
+msgid "Sync your data over %s CRM."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:62
+msgid "Connect your Account."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:91
+msgid "Enter your api credentials here"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:102
+msgid "Use own app"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:115
+msgid "Zoho Domain"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:120
+msgid ".in"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:121
+msgid ".com.cn"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:122
+msgid ".com.au"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:123
+msgid ".eu"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:124
+msgid ".com"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:133
+msgid "Client ID"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:150
+msgid "Secret key"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:167
+msgid "Redirect URL"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:181
+msgid "Authorize"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:194
+msgid "Don’t have an account yet . "
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:196
+msgid "Create A Free Account"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:200
+msgid "Get Your Api Key here."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:201
+msgid "Get Api Keys"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:204
+msgid "Check app setup guide . "
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:205
+msgid "Show Me How"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:221
+#, php-format
+msgid ""
+"Congrats! You’ve successfully set up the MWB CF7 Integration with %s Plugin."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:236
+#, php-format
+msgid ""
+"Now you can go to the dashboard and check for the synced data. You can check "
+"your feeds, edit them and resync the data if you want. If you do not see "
+"your data over %s CRM, you can check the logs for any possible error."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:243
+msgid "View Dashboard"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:35
+msgid "Select CF7 form"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:67
+msgid "Active"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:67
+msgid "Sandbox"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:84
+msgid "-"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:103
+msgid "Add Feeds"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:30
+msgid "Clear Log"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:35
+msgid "Download"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:48
+msgid "Expand"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:50
+msgid "Feed ID"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:54
+#, php-format
+msgid "%s Object"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:60
+#, php-format
+msgid "%s ID"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:63
+msgid "Event"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:64
+msgid "Timestamp"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:65
+msgid "Request"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:66
+msgid "Response"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:73
+msgid "Please enable the logs from "
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:73
+msgid "Settings tab"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/settings-tab.php:40
+msgid "Enable logs"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/settings-tab.php:45
+msgid "Enable logging of all the form data to be sent over ZOHO CRM"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/settings-tab.php:58
+msgid "Plugin Data"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/settings-tab.php:63
+msgid "Enable to delete the plugin data after uninstallation of plugin"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/settings-tab.php:76
+msgid "Email notification"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/settings-tab.php:81
+msgid "Enable email notification on errors while syncing data to ZOHO CRM"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/settings-tab.php:110
+msgid "Delete logs after N days"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/settings-tab.php:115
+msgid "This will delete the logs data after N no. of days"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/settings-tab.php:132
+msgid "Save"
+msgstr ""
+
+#: public/class-mwb-cf7-integration-with-zoho-public.php:489
+#, php-format
+msgid "Error While Posting CF7 form data over %s "
+msgstr ""
+
+#: public/partials/email-template.php:21 public/partials/email-template.php:27
+msgid "Error - "
+msgstr ""
+
+#: public/partials/email-template.php:42
+msgid "View Logs"
+msgstr ""
